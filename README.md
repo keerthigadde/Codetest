@@ -1,4 +1,4 @@
-Follow the instructions mentioned in attached file for testing and running application(screen shot attached in word document)
+Follow the instructions mentioned in attached file( project instructions )for testing and running application(screen shot attached in word document)
 Instructions to run the code:
 1.	Run Spring Boot application and it will run on port no: 8081
 2.	In-memory database is used and it can be found at : http://localhost:8081/console
